@@ -72,4 +72,3 @@ function countriesData (data){
 
 function clearData(...outputs) {
     outputs.forEach(output => output.innerHTML = "");  }
-  
